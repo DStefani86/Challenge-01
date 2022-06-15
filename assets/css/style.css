@@ -36,7 +36,7 @@ header nav ul {
     list-style-type: none;
 }
 
-header div ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -60,12 +60,12 @@ p {
 }
 
 .float-left {
-    float: inline-start;
+    float: left;
     margin-right: 25px;
 }
 
 .float-right {
-    float: inline-end;
+    float: right;
     margin-left: 25px;
     
 }
