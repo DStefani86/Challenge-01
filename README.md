@@ -17,9 +17,6 @@ At a minimum, your project README needs a title and a short description explaini
 
 [Horiseon Refractor](https://dstefani86.github.io/horiseon-refractor/)
 
-If you're new to Markdown, read the GitHub guide on [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
-
-If you need an example of a good README, check out [the VSCode repository](https://github.com/microsoft/vscode).
 
 
 ## Installation
@@ -27,13 +24,32 @@ To install this project, fork the repository to your Gtihub account. Once on you
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
+Put the link reference below the title for sequential order
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Before:
 
-```md
-![Example-01](assets/images/Screenshot-01.png)
-```
+![Before](./assets/images/Before-01.png)
+
+
+
+
+After:
+
+![After](./assets/images/Screenshot-01.png)
+
+Second Example
+
+Before:
+
+![Before](./assets/images/Before-02.png)
+
+
+
+
+After:
+
+![After](./assets/images/Screenshot-02.png)
+
 
 
 ## Credits
